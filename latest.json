@@ -1,4 +1,4 @@
 {
-  "version": "1.0.1",
-  "notas": "Correcao: anuncios da Amazon voltam a ser postados. Verificacao automatica de novas versoes."
+  "version": "1.0.2",
+  "notas": "Amazon: preco corrigido (fim do 'ver no site'). NOVO: painel de afiliados ML (ganhos extras no almoco) + Shopee (API oficial e importacao de CSV de ofertas)."
 }
