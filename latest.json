@@ -1,4 +1,4 @@
 {
-  "version": "1.0.4",
-  "notas": "Painel repaginado: tema claro/escuro, secao de Configuracoes, visual novo e animacoes."
+  "version": "1.0.5",
+  "notas": "Personalizacao total: 5 layouts selecionaveis (Minimalista/Cyber/Aurora/HUD/Neo), cores customizaveis e identidade do bot (nome + avatar)."
 }
