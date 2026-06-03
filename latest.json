@@ -1,4 +1,4 @@
 {
-  "version": "1.0.3",
-  "notas": "Shopee: fotos dos produtos (importacao CSV) corrigidas - agora vem com imagem."
+  "version": "1.0.4",
+  "notas": "Painel repaginado: tema claro/escuro, secao de Configuracoes, visual novo e animacoes."
 }
