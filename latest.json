@@ -1,4 +1,4 @@
 {
-  "version": "1.0.2",
-  "notas": "Amazon: preco corrigido (fim do 'ver no site'). NOVO: painel de afiliados ML (ganhos extras no almoco) + Shopee (API oficial e importacao de CSV de ofertas)."
+  "version": "1.0.3",
+  "notas": "Shopee: fotos dos produtos (importacao CSV) corrigidas - agora vem com imagem."
 }
