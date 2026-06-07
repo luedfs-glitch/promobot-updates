@@ -1,9 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "version": "1.0.8",
-  "notas": "Dashboard de crescimento com grafico de envios diarios + cron meia-noite"
-=======
   "version": "1.0.9",
   "notas": "Atualização"
->>>>>>> Stashed changes
 }
