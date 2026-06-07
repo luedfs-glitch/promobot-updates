@@ -1,4 +1,4 @@
 {
-  "version": "1.0.6",
-  "notas": "Controle de fluxo: escolha o intervalo entre envios e quantas promocoes por vez."
+  "version": "1.0.7",
+  "notas": "Fix update: usar tmpdir do sistema para suportar qualquer pasta de instalacao"
 }
