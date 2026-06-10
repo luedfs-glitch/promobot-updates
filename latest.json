@@ -1,4 +1,4 @@
 {
-  "version": "1.0.34",
-  "notas": "Corrigido: bot repetia postagens - historico persistente de 7 dias adicionado"
+  "version": "1.0.35",
+  "notas": "AliExpress: corrigido precos de faixa, lazy-load de imagens e deteccao de container"
 }
