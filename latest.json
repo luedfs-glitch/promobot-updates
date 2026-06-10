@@ -1,4 +1,4 @@
 {
-  "version": "1.0.32",
-  "notas": "Atualização"
+  "version": "1.0.33",
+  "notas": "Corrigido: bot não enviava mensagens - duplo agendamento de ciclo removido"
 }
