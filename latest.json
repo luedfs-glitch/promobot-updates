@@ -1,4 +1,4 @@
 {
-  "version": "1.0.33",
-  "notas": "Corrigido: bot não enviava mensagens - duplo agendamento de ciclo removido"
+  "version": "1.0.34",
+  "notas": "Corrigido: bot repetia postagens - historico persistente de 7 dias adicionado"
 }
