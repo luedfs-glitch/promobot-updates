@@ -1,4 +1,4 @@
 {
-  "version": "1.0.45",
-  "notas": "Secao TEC completa: placa de video, processador, RAM, SSD, placa-mae, gabinete, fonte, cooler, monitor, cadeira, mesa, iluminacao, hub, roteador, repetidor, placa de rede, perifericos"
+  "version": "1.0.46",
+  "notas": "Lote por ciclo configuravel ate 30 categorias (padrao do Luis: 20) - cobre as 89 categorias mais rapido"
 }
