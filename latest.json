@@ -1,4 +1,4 @@
 {
-  "version": "1.0.46",
-  "notas": "Lote por ciclo configuravel ate 30 categorias (padrao do Luis: 20) - cobre as 89 categorias mais rapido"
+  "version": "1.0.47",
+  "notas": "Fix: promo subindo sem imagem - webp convertido p/ JPEG no fallback + retry no download do card"
 }
