@@ -1,4 +1,4 @@
 {
-  "version": "1.0.36",
-  "notas": "Cupom Magalu: postar cupons do Magazine Voce direto pelo painel"
+  "version": "1.0.37",
+  "notas": "Corrigido: repeticao de postagens - corrida entre bot e API ao salvar promos + dedup por nome persistente"
 }
