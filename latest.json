@@ -1,4 +1,4 @@
 {
-  "version": "1.0.47",
-  "notas": "Fix: promo subindo sem imagem - webp convertido p/ JPEG no fallback + retry no download do card"
+  "version": "1.0.48",
+  "notas": "Secao Moda/Vestuario completa: perfume, relogio, cordao, pulseira, oculos, bone, calca social/jeans, regata, polo, jaqueta, moletom, carteira"
 }
