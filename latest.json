@@ -1,4 +1,4 @@
 {
-  "version": "1.0.40",
-  "notas": "Lote rotativo de categorias: ciclos curtos, envio rapido apos restart e fluxo constante"
+  "version": "1.0.41",
+  "notas": "Trava anti-parcela: descarta produto com desconto >83% (preco de parcela capturado errado)"
 }
