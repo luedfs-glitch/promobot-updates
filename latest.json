@@ -1,4 +1,4 @@
 {
-  "version": "1.0.37",
-  "notas": "Corrigido: repeticao de postagens - corrida entre bot e API ao salvar promos + dedup por nome persistente"
+  "version": "1.0.38",
+  "notas": "Copy de venda com gatilhos e prova social, priorizacao por desconto, dedup ignora variacao de cor/voltagem"
 }
