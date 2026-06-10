@@ -1,4 +1,4 @@
 {
-  "version": "1.0.35",
-  "notas": "AliExpress: corrigido precos de faixa, lazy-load de imagens e deteccao de container"
+  "version": "1.0.36",
+  "notas": "Cupom Magalu: postar cupons do Magazine Voce direto pelo painel"
 }
