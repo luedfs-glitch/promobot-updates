@@ -1,4 +1,4 @@
 {
-  "version": "1.0.43",
-  "notas": "Redesign do painel (visual novo, icones de linha, top bar) + correcao do canal de feedback premium"
+  "version": "1.0.44",
+  "notas": "Categorias dedicadas para tops: iPhone, Galaxy S, Z Flip e Z Fold (busca direta por modelo)"
 }
