@@ -1,4 +1,4 @@
 {
-  "version": "1.0.49",
-  "notas": "AliExpress confiavel sem API: extracao de dados estruturados da pagina (preco/imagem/avaliacao limpos)"
+  "version": "1.0.50",
+  "notas": "polish visual para gravacao - versao corrigida, dashboard com ultimas enviadas e indicador de status do robo"
 }
