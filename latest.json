@@ -1,4 +1,4 @@
 {
-  "version": "1.0.48",
-  "notas": "Secao Moda/Vestuario completa: perfume, relogio, cordao, pulseira, oculos, bone, calca social/jeans, regata, polo, jaqueta, moletom, carteira"
+  "version": "1.0.49",
+  "notas": "AliExpress confiavel sem API: extracao de dados estruturados da pagina (preco/imagem/avaliacao limpos)"
 }
