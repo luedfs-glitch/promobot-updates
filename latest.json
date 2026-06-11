@@ -1,4 +1,4 @@
 {
-  "version": "1.0.52",
-  "notas": "redesign visual inspirado na referencia - paleta navy/purple, cards com gradiente e tendencia semanal, sidebar com AUTOMACAO+ANALYTICS, gridMain duas colunas, gauge SVG anti-ban, slots de horario separados"
+  "version": "1.0.53",
+  "notas": "dashboard completo estilo referencia - status conexao com 3 mini-cards, banner criar promocao 4 passos, resumo do dia, grafico duplo enviadas+capturadas com legenda"
 }
