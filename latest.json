@@ -1,4 +1,4 @@
 {
-  "version": "1.0.53",
-  "notas": "dashboard completo estilo referencia - status conexao com 3 mini-cards, banner criar promocao 4 passos, resumo do dia, grafico duplo enviadas+capturadas com legenda"
+  "version": "1.0.54",
+  "notas": "fix supervisor - so define PLAYWRIGHT_BROWSERS_PATH se a pasta browser existir (instalacao master usava caminho inexistente e o scraping falhava)"
 }
