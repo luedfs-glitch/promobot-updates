@@ -1,4 +1,4 @@
 {
-  "version": "1.0.55",
-  "notas": "Fila ao Vivo - nova secao no painel mostra a ordem das promocoes do ciclo em tempo real (aguardando/enviando/enviado), endpoint /api/fila; removido pm2 legado do controle do robo (evita robo duplicado)"
+  "version": "1.0.56",
+  "notas": "🎉 Notas de atualização no painel: ao atualizar, um aviso mostra tudo que foi corrigido e melhorado; 📋 Histórico completo de versões em Configurações → Atualização"
 }
