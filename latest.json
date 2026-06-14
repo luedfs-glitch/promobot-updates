@@ -1,4 +1,4 @@
 {
-  "version": "1.0.59",
-  "notas": "🌏 AliExpress de volta com COMISSÃO REAL: integração com a API oficial de afiliados (links s.click.aliexpress.com que creditam comissão) + 10 categorias AliExpress reativadas (eletrônicos, celulares, casa, beleza, esportes, brinquedos, automotivo, moda, ferramentas, ofertas)"
+  "version": "1.0.60",
+  "notas": "🛡️ Watchdog de estabilidade: se o robô travar (heartbeat congelado por +4min), o sistema reinicia ele sozinho — recuperação automática de travamentos"
 }
