@@ -1,4 +1,4 @@
 {
-  "version": "1.0.57",
-  "notas": "🐾 Categoria Pet reformulada e aprofundada: 8 subcategorias reais (ração cão e gato, antipulgas, areia, brinquedos pet, aquário, pet shop, coleiras) — chega de livro e brinquedo infantil aparecendo em pet; 🖼️ Correção: promoção sem imagem nunca mais é postada (3 tentativas de download + se falhar, pula pro próximo ciclo)"
+  "version": "1.0.58",
+  "notas": "🖼️ Correção definitiva de promoção sem imagem: quando o WhatsApp falha ao subir a foto, o bot agora tenta 3x e, se não conseguir, pula a promoção para o próximo ciclo em vez de postar sem imagem"
 }
