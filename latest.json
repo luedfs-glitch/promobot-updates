@@ -1,4 +1,4 @@
 {
-  "version": "1.0.56",
-  "notas": "🎉 Notas de atualização no painel: ao atualizar, um aviso mostra tudo que foi corrigido e melhorado; 📋 Histórico completo de versões em Configurações → Atualização"
+  "version": "1.0.57",
+  "notas": "🐾 Categoria Pet reformulada e aprofundada: 8 subcategorias reais (ração cão e gato, antipulgas, areia, brinquedos pet, aquário, pet shop, coleiras) — chega de livro e brinquedo infantil aparecendo em pet; 🖼️ Correção: promoção sem imagem nunca mais é postada (3 tentativas de download + se falhar, pula pro próximo ciclo)"
 }
