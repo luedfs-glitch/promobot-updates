@@ -1,4 +1,4 @@
 {
-  "version": "1.0.58",
-  "notas": "🖼️ Correção definitiva de promoção sem imagem: quando o WhatsApp falha ao subir a foto, o bot agora tenta 3x e, se não conseguir, pula a promoção para o próximo ciclo em vez de postar sem imagem"
+  "version": "1.0.59",
+  "notas": "🌏 AliExpress de volta com COMISSÃO REAL: integração com a API oficial de afiliados (links s.click.aliexpress.com que creditam comissão) + 10 categorias AliExpress reativadas (eletrônicos, celulares, casa, beleza, esportes, brinquedos, automotivo, moda, ferramentas, ofertas)"
 }
