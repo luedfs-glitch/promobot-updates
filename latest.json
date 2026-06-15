@@ -1,4 +1,4 @@
 {
-  "version": "1.0.60",
-  "notas": "🛡️ Watchdog de estabilidade: se o robô travar (heartbeat congelado por +4min), o sistema reinicia ele sozinho — recuperação automática de travamentos"
+  "version": "1.0.61",
+  "notas": "🌏 AliExpress melhorado: aviso de produto internacional na mensagem (cliente fica atento ao prazo e taxa de importação) + 13 categorias bem direcionadas (fones, smartwatch, LED, cozinha, organizadores, maquiagem e mais — buscas específicas que trazem produtos melhores)"
 }
