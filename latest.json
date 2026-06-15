@@ -1,4 +1,4 @@
 {
-  "version": "1.0.65",
-  "notas": "Correções de estabilidade: bot não para mais inesperadamente. Tratamento de erros não capturados em api.js e bot.js. Throttle no refresh de grupos do WhatsApp (evita rate-overlimit). Detecção e retry quando Mercado Livre redireciona para versão espanhola."
+  "version": "1.0.66",
+  "notas": "Correcao critica: supervisor agora roda em background independente (nao para mais quando a janela fecha). LIGAR-DESLIGAR.bat atualizado para usar supervisor no lugar do pm2. Handlers de erro global em api.js e bot.js."
 }
