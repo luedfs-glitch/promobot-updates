@@ -1,4 +1,4 @@
 {
-  "version": "1.0.63",
-  "notas": "🔒 Segurança: AliExpress só publica quando a API oficial está configurada (garante preço exato e comissão) — evita qualquer preço impreciso"
+  "version": "1.0.64",
+  "notas": "🔗 Links do AliExpress agora curtos (s.click.aliexpress.com/e/... com ~40 caracteres em vez de 1000+) — mensagens mais limpas e profissionais"
 }
