@@ -1,4 +1,4 @@
 {
-  "version": "1.0.61",
-  "notas": "🌏 AliExpress melhorado: aviso de produto internacional na mensagem (cliente fica atento ao prazo e taxa de importação) + 13 categorias bem direcionadas (fones, smartwatch, LED, cozinha, organizadores, maquiagem e mais — buscas específicas que trazem produtos melhores)"
+  "version": "1.0.62",
+  "notas": "💲 Correção do preço do AliExpress: agora o preço vem direto da API oficial (preço real e exato que o cliente paga), em vez do preço aproximado da busca que às vezes vinha errado. Preço, desconto e link de afiliado tudo certo numa só fonte"
 }
