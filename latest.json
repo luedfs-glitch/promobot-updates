@@ -1,4 +1,4 @@
 {
-  "version": "1.0.64",
-  "notas": "🔗 Links do AliExpress agora curtos (s.click.aliexpress.com/e/... com ~40 caracteres em vez de 1000+) — mensagens mais limpas e profissionais"
+  "version": "1.0.65",
+  "notas": "Correções de estabilidade: bot não para mais inesperadamente. Tratamento de erros não capturados em api.js e bot.js. Throttle no refresh de grupos do WhatsApp (evita rate-overlimit). Detecção e retry quando Mercado Livre redireciona para versão espanhola."
 }
