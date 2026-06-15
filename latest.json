@@ -1,4 +1,4 @@
 {
-  "version": "1.0.62",
-  "notas": "💲 Correção do preço do AliExpress: agora o preço vem direto da API oficial (preço real e exato que o cliente paga), em vez do preço aproximado da busca que às vezes vinha errado. Preço, desconto e link de afiliado tudo certo numa só fonte"
+  "version": "1.0.63",
+  "notas": "🔒 Segurança: AliExpress só publica quando a API oficial está configurada (garante preço exato e comissão) — evita qualquer preço impreciso"
 }
