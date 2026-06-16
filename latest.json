@@ -1,4 +1,4 @@
 {
-  "version": "1.0.69",
-  "notas": "v1.0.69: erros de WhatsApp desconectado agora marcam itens como retido e abortam o ciclo imediatamente, sem delay desnecessário"
+  "version": "1.0.70",
+  "notas": "v1.0.70: distribuição 30%Shopee/25%ML/25%Amazon/20%Ali; Shopee API com keyword+categoryId por categoria; AliExpress Choice (BR) e Internacional como grupos separados"
 }
