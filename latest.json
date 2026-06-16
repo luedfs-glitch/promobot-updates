@@ -1,4 +1,4 @@
 {
-  "version": "1.0.67",
-  "notas": "Correcao Amazon: URLs atualizadas (sem filtro deal_type que causava bloqueio). Headers pt-BR adicionados. Retry automatico ao detectar pagina de erro da Amazon."
+  "version": "1.0.68",
+  "notas": "Shopee API oficial ativada: comissao real via Open API (AppID 18352471108). Links afiliados curtos s.shopee.com.br. Preco, imagem e comissao vindos direto da API."
 }
