@@ -1,4 +1,4 @@
 {
-  "version": "1.0.66",
-  "notas": "Correcao critica: supervisor agora roda em background independente (nao para mais quando a janela fecha). LIGAR-DESLIGAR.bat atualizado para usar supervisor no lugar do pm2. Handlers de erro global em api.js e bot.js."
+  "version": "1.0.67",
+  "notas": "Correcao Amazon: URLs atualizadas (sem filtro deal_type que causava bloqueio). Headers pt-BR adicionados. Retry automatico ao detectar pagina de erro da Amazon."
 }
