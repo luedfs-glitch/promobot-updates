@@ -1,4 +1,4 @@
 {
-  "version": "1.0.68",
-  "notas": "Shopee API oficial ativada: comissao real via Open API (AppID 18352471108). Links afiliados curtos s.shopee.com.br. Preco, imagem e comissao vindos direto da API."
+  "version": "1.0.69",
+  "notas": "v1.0.69: erros de WhatsApp desconectado agora marcam itens como retido e abortam o ciclo imediatamente, sem delay desnecessário"
 }
