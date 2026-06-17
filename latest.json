@@ -1,4 +1,4 @@
 {
-  "version": "1.0.72",
-  "notas": "v1.0.72: Shopee fix - pagina rotativa 1-5, TTL 3 dias, bug de TTL sendo renovado a cada ciclo corrigido"
+  "version": "1.0.73",
+  "notas": "v1.0.73: fix loop 440 WhatsApp - refreshGroups com delay 30s apos conectar, codigo 440 trata como logout (limpa sessao)"
 }
