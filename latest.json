@@ -1,4 +1,4 @@
 {
-  "version": "1.0.71",
-  "notas": "v1.0.71: Shopee fix - listType=0 (listType=1 retorna vazio), keyword por categoria, categoryId removido (API nao suporta)"
+  "version": "1.0.72",
+  "notas": "v1.0.72: Shopee fix - pagina rotativa 1-5, TTL 3 dias, bug de TTL sendo renovado a cada ciclo corrigido"
 }
