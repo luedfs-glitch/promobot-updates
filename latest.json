@@ -1,4 +1,4 @@
 {
-  "version": "1.0.73",
-  "notas": "v1.0.73: fix loop 440 WhatsApp - refreshGroups com delay 30s apos conectar, codigo 440 trata como logout (limpa sessao)"
+  "version": "1.0.74",
+  "notas": "v1.0.74: Fix Anti-Ban slider — aviso quando limite esta abaixo do uso diario, mensagem clara quando limite atingido, corrigido race condition no botao Salvo"
 }
