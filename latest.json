@@ -1,4 +1,4 @@
 {
-  "version": "1.0.74",
-  "notas": "v1.0.74: Fix Anti-Ban slider — aviso quando limite esta abaixo do uso diario, mensagem clara quando limite atingido, corrigido race condition no botao Salvo"
+  "version": "1.0.75",
+  "notas": "v1.0.75: Shopee com 26 categorias — TVs, games, audio, informatica, moveis, eletrodomesticos, calcados, limpeza, ferramentas, bebes, bebidas, livros, jardinagem e perfumes"
 }
