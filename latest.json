@@ -1,4 +1,4 @@
 {
-  "version": "1.1.0",
-  "notas": "Novo tema Golden Premium em ouro e vermelho metalizado; Cupons de todas as lojas num so lugar: Mercado Livre, Shopee, Amazon, AliExpress, Magalu e lojas parceiras; Card de cupom exclusivo junto da mensagem; Campo para restringir o cupom a uma loja ou marca; Shopee agora com 26 categorias de produtos"
+  "version": "1.1.1",
+  "notas": "Proteja o painel com uma senha de acesso, opcional e recomendada para quem hospeda o bot num servidor; Suas chaves de API agora ficam protegidas e nao aparecem mais em texto no painel; Reforcos gerais de seguranca no controle do robo"
 }
