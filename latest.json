@@ -1,4 +1,4 @@
 {
-  "version": "1.1.1",
-  "notas": "Proteja o painel com uma senha de acesso, opcional e recomendada para quem hospeda o bot num servidor; Suas chaves de API agora ficam protegidas e nao aparecem mais em texto no painel; Reforcos gerais de seguranca no controle do robo"
+  "version": "1.1.2",
+  "notas": "Mais camadas de protecao no painel: senha guardada com criptografia forte; bloqueio automatico contra tentativas de adivinhar a senha; protecao contra comandos vindos de sites externos; cabecalhos de seguranca no servidor"
 }
