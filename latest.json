@@ -1,4 +1,5 @@
 {
-  "version": "1.1.2",
-  "notas": "Mais camadas de protecao no painel: senha guardada com criptografia forte; bloqueio automatico contra tentativas de adivinhar a senha; protecao contra comandos vindos de sites externos; cabecalhos de seguranca no servidor"
+  "version": "1.1.3",
+  "notas": "Atualizacoes agora vem com assinatura digital de seguranca: o bot so instala pacotes autenticos verificados pela nossa chave, bloqueando qualquer atualizacao falsa ou adulterada",
+  "sig": "882cf6cd63bda5033d95103dbe3439deefb49ff7ecf3d6001d965e70f242c5e457613e17cc4bf40a1fec34988bf1aeecfa0a766e66cc71e2570afdba3061a807"
 }
