@@ -1,5 +1,5 @@
 {
-  "version": "1.3.1",
-  "notas": "Muito mais variedade nas lojas: Amazon, Shopee e AliExpress com dezenas de categorias novas (Smart TV, air fryer, moda, óculos, câmera de segurança, casa inteligente, fitness, drone e mais)",
-  "sig": "8ba23445a2e9eb98756f6e7f40fb5374ac623c765040faf73a9e3d42cb95bc5976b83aef98563d13c3c56383f020a6efcbe6f2b78a8534d75a731eb2bd570606"
+  "version": "1.3.2",
+  "notas": "Conexão do WhatsApp muito mais resistente: reconecta sozinho depois de quedas de internet, pareia mais rápido após escanear o QR e não pede QR Code sem necessidade",
+  "sig": "87ce7cc350e2b63bdfa52cd74597807dabf50902303c0f4c7708b823e61f97d2c882b9e205d37462f6b66dd4a27e8bd0d5bb10bfe14712c575b760bde5723b0b"
 }
