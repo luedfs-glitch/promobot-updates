@@ -1,5 +1,5 @@
 {
-  "version": "1.3.2",
-  "notas": "Conexão do WhatsApp muito mais resistente: reconecta sozinho depois de quedas de internet, pareia mais rápido após escanear o QR e não pede QR Code sem necessidade",
-  "sig": "87ce7cc350e2b63bdfa52cd74597807dabf50902303c0f4c7708b823e61f97d2c882b9e205d37462f6b66dd4a27e8bd0d5bb10bfe14712c575b760bde5723b0b"
+  "version": "1.3.3",
+  "notas": "Conexão do WhatsApp ainda mais estável: se cair, o bot restaura a sessão sozinho e reconecta sem pedir QR de novo; correção extra de reconexão e mais categorias de produtos",
+  "sig": "ddc9e2aeef3e7833290a0e446423385528deec004c335eeff629a26609ecdc919f64f51a8fc305ff56cdd4393d637b88caf5696e458289ddbcf81b7c396f9700"
 }
