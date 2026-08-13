@@ -1,5 +1,5 @@
 {
-  "version": "1.3.4",
-  "notas": "Conecte o WhatsApp também pelo número de telefone (código de 8 dígitos), sem precisar escanear o QR; envios travados por conexão ruim não param mais a fila de promoções",
-  "sig": "9e4c82e0404d1e964b363be516b1bb943ebd61adee63f910ce99cc96a454bd1528108c8a010f306df9b091d3e2246980f726ccc755139dda82015ed4238bc90a"
+  "version": "1.3.5",
+  "notas": "Agendador de ciclo blindado (erro no meio nao trava mais os envios) + anti-repeticao por nome no envio (zero anuncio repetido)",
+  "sig": "c6a43a6ebe2248070d626c574b4a3a31632bac2c63ea4d33a57fd1d4e611553ae6705e8eb32cc0631a1eafbb20583bfb23900485dcf6331f3484e31040d8ec0c"
 }
