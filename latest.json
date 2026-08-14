@@ -1,5 +1,5 @@
 {
-  "version": "1.3.5",
-  "notas": "Agendador de ciclo blindado (erro no meio nao trava mais os envios) + anti-repeticao por nome no envio (zero anuncio repetido)",
-  "sig": "c6a43a6ebe2248070d626c574b4a3a31632bac2c63ea4d33a57fd1d4e611553ae6705e8eb32cc0631a1eafbb20583bfb23900485dcf6331f3484e31040d8ec0c"
+  "version": "1.4.0",
+  "notas": "Suporte com IA: assistente que examina o bot e resolve problemas com um clique (chave gratis do proprio cliente). Correcoes: categoria travada nao segura mais o ciclo de envio; Mercado Livre bloqueado e detectado e pulado na hora",
+  "sig": "08a7dd23b3d82433e62a0dbd0b4dbc0f16a8bffaa9a9c3e10e790e02296e5d6700854fe23b7cb6a95eb458de928b0cddaa5e96970e985667b9d133e241505306"
 }
