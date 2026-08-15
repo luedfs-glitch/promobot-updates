@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
-  "notas": "Suporte com IA: assistente que examina o bot e resolve problemas com um clique (chave gratis do proprio cliente). Correcoes: categoria travada nao segura mais o ciclo de envio; Mercado Livre bloqueado e detectado e pulado na hora",
-  "sig": "08a7dd23b3d82433e62a0dbd0b4dbc0f16a8bffaa9a9c3e10e790e02296e5d6700854fe23b7cb6a95eb458de928b0cddaa5e96970e985667b9d133e241505306"
+  "version": "1.4.1",
+  "notas": "WhatsApp mais estavel: queda com codigo 500 nao apaga mais a sessao boa nem pede QR a toa. Agora o bot restaura a sessao pelo backup e so pede QR apos 3 quedas seguidas",
+  "sig": "3ce977367631e027a15524bdda9e80ac5e67dd91d2f99d75d35e018a2b75055e8933acc467b5999637ccf1f467bf920a4270f20bfad9981cf75b5ddcd1164f0a"
 }
