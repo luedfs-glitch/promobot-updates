@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
-  "notas": "Diario de eventos do bot: o suporte passa a enxergar o funcionamento de cada instalacao (quedas do WhatsApp, ciclos, categorias travadas, repetidos barrados) sem precisar pedir arquivo ao cliente; segredos sao mascarados antes de sair da maquina",
-  "sig": "1343de46b3f4f4259ca19d8885ffd232c9c8b468ede8d6eacd32e362e7d69528d67a95b873deea3dc59459454614348d84105372954860042cb3d4ed41e8330c"
+  "version": "1.5.1",
+  "notas": "Correcao no diario de eventos: bot e painel gravavam por cima um do outro e eventos de envio se perdiam",
+  "sig": "b5b4f9637fb386c9d659444a8f3787903f52bccf40e5e2634a4e09ca0f0ba05a8aa4cbd74ecc3a8637e223ea4acc6504d1d3ccafaec0304ec80c1b80e61de207"
 }
