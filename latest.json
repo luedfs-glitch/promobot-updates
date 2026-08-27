@@ -1,5 +1,5 @@
 {
-  "version": "1.5.1",
-  "notas": "Correcao no diario de eventos: bot e painel gravavam por cima um do outro e eventos de envio se perdiam",
-  "sig": "b5b4f9637fb386c9d659444a8f3787903f52bccf40e5e2634a4e09ca0f0ba05a8aa4cbd74ecc3a8637e223ea4acc6504d1d3ccafaec0304ec80c1b80e61de207"
+  "version": "1.6.0",
+  "notas": "Busca no Privado (Extra Premium): o cliente final chama o bot no privado, pede um produto e recebe as melhores ofertas com o seu link; menu de categorias, refino por faixa de preco e aviso de 'estou buscando'. Precos honestos da Shopee (fim do 'era R$' inventado). Correcao: conexao zumbi travava os envios. 33 categorias novas (eletrodomesticos, cozinha, ferramentas, garrafas, acessorios)",
+  "sig": "f7578c348bde04cf029ffd4101406646ae98c777efab879f677e39622dac8cb3cf327a163ab447f6c86534316682b9099f67600ac5bde81c291c230932bf2c01"
 }
