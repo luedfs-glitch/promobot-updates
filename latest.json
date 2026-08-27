@@ -1,5 +1,5 @@
 {
-  "version": "1.6.1",
-  "notas": "Correcao importante: o modelo do Groq usado pela IA foi descontinuado e devolvia erro; agora ha lista de modelos com reserva nos dois provedores. Ventilador/cooler deixou de ser confundido com o produto na busca do privado",
-  "sig": "fbc756f3927c01ba02d5442763d72d819a04d406507df110b8bc36beed947dcb2bb31679d63ec3ab2e9c99ed0a05ae44ced657c507f114ffdb92009651747b0d"
+  "version": "1.6.2",
+  "notas": "Teste gratis de 24 horas do Extra Premium direto no painel (sem cartao) e link de assinatura; aviso quando falta configurar loja de afiliado",
+  "sig": "befdc3ef4e20a7a98e1b8b2b0c380ee9b6914e4366de93b897d3ba8249850629f374ee7c3f58420563cecbd191d1f3a6d9c60e2dc382464afc28c34d98b01c06"
 }
