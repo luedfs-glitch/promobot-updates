@@ -1,5 +1,5 @@
 {
-  "version": "1.6.2",
-  "notas": "Teste gratis de 24 horas do Extra Premium direto no painel (sem cartao) e link de assinatura; aviso quando falta configurar loja de afiliado",
-  "sig": "befdc3ef4e20a7a98e1b8b2b0c380ee9b6914e4366de93b897d3ba8249850629f374ee7c3f58420563cecbd191d1f3a6d9c60e2dc382464afc28c34d98b01c06"
+  "version": "1.6.3",
+  "notas": "Recurso renomeado para Buscador Privado de Promocoes (nome que diz o que ele faz)",
+  "sig": "fa018a8e7769f77b22613cd68eacb002208157eae9cacb9b223685673f077274e1004d65f1843daddb9bceff8937d1ff79c3eac3f7d355c72c75c844f567e80f"
 }
