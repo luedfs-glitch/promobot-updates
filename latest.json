@@ -1,5 +1,5 @@
 {
-  "version": "1.6.0",
-  "notas": "Busca no Privado (Extra Premium): o cliente final chama o bot no privado, pede um produto e recebe as melhores ofertas com o seu link; menu de categorias, refino por faixa de preco e aviso de 'estou buscando'. Precos honestos da Shopee (fim do 'era R$' inventado). Correcao: conexao zumbi travava os envios. 33 categorias novas (eletrodomesticos, cozinha, ferramentas, garrafas, acessorios)",
-  "sig": "f7578c348bde04cf029ffd4101406646ae98c777efab879f677e39622dac8cb3cf327a163ab447f6c86534316682b9099f67600ac5bde81c291c230932bf2c01"
+  "version": "1.6.1",
+  "notas": "Correcao importante: o modelo do Groq usado pela IA foi descontinuado e devolvia erro; agora ha lista de modelos com reserva nos dois provedores. Ventilador/cooler deixou de ser confundido com o produto na busca do privado",
+  "sig": "fbc756f3927c01ba02d5442763d72d819a04d406507df110b8bc36beed947dcb2bb31679d63ec3ab2e9c99ed0a05ae44ced657c507f114ffdb92009651747b0d"
 }
