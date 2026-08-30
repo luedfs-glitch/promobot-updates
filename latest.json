@@ -1,5 +1,5 @@
 {
-  "version": "1.6.3",
-  "notas": "Recurso renomeado para Buscador Privado de Promocoes (nome que diz o que ele faz)",
-  "sig": "fa018a8e7769f77b22613cd68eacb002208157eae9cacb9b223685673f077274e1004d65f1843daddb9bceff8937d1ff79c3eac3f7d355c72c75c844f567e80f"
+  "version": "1.6.4",
+  "notas": "Painel passa a rodar em localhost:9999 (a porta antiga 3001 conflitava com outros programas). A porta pode ser trocada no config.json, e o painel agora usa automaticamente a porta de onde foi aberto",
+  "sig": "19e17e3a03679f0a9e42f048927207153755c5c29b98c88c8c448fa9f7a3fc875417d301949c24dc84d14d974ac96c2348e1b12ffd3e0d2ab60563e2a9646506"
 }
