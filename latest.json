@@ -1,5 +1,5 @@
 {
-  "version": "1.6.4",
-  "notas": "Painel passa a rodar em localhost:9999 (a porta antiga 3001 conflitava com outros programas). A porta pode ser trocada no config.json, e o painel agora usa automaticamente a porta de onde foi aberto",
-  "sig": "19e17e3a03679f0a9e42f048927207153755c5c29b98c88c8c448fa9f7a3fc875417d301949c24dc84d14d974ac96c2348e1b12ffd3e0d2ab60563e2a9646506"
+  "version": "1.6.5",
+  "notas": "Correcao: o painel mostrava o plano como Basico para quem tem o Buscador Privado, e escondia o acesso ao suporte premium",
+  "sig": "f933684907423e679baff08b00f95be7f9b787c4a1e129092c841358b22d44379ac6fa25c6f2cac53d593cd5178a94216c04780fc216aeea6ffbffe301707d06"
 }
