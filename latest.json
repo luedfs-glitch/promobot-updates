@@ -1,5 +1,5 @@
 {
-  "version": "1.6.5",
-  "notas": "Correcao: o painel mostrava o plano como Basico para quem tem o Buscador Privado, e escondia o acesso ao suporte premium",
-  "sig": "f933684907423e679baff08b00f95be7f9b787c4a1e129092c841358b22d44379ac6fa25c6f2cac53d593cd5178a94216c04780fc216aeea6ffbffe301707d06"
+  "version": "1.6.6",
+  "notas": "Minha Loja: quem tem site proprio pode divulgar o proprio catalogo nos grupos. Basta colar o endereco do feed de produtos (o mesmo do Google Shopping) e o bot publica so o que esta em promocao, com o link da sua loja",
+  "sig": "9f106776d6daeabb0b1f899f0730235468587c911c35dfc2cc014306409d55bce6417d5416e8a617cd16265fa960098b8a89eedc83310f3082bd7beaf1e14406"
 }
