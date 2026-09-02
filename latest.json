@@ -1,5 +1,5 @@
 {
-  "version": "1.6.6",
-  "notas": "Minha Loja: quem tem site proprio pode divulgar o proprio catalogo nos grupos. Basta colar o endereco do feed de produtos (o mesmo do Google Shopping) e o bot publica so o que esta em promocao, com o link da sua loja",
-  "sig": "9f106776d6daeabb0b1f899f0730235468587c911c35dfc2cc014306409d55bce6417d5416e8a617cd16265fa960098b8a89eedc83310f3082bd7beaf1e14406"
+  "version": "1.6.7",
+  "notas": "Envios diversificados: rodizio por categoria em vez de so por plataforma, com ordem sorteada a cada rodada; produtos de nome parecido nao saem mais em sequencia",
+  "sig": "de57af0e9e56dac1b2f12d5baa71e65bb1de586d2d137710083bc19327c70d356839fb3859f1648b2c87ec8675a1ca22a7a32b9944964d4f6a375c4e48886005"
 }
