@@ -1,5 +1,5 @@
 {
-  "version": "1.6.7",
-  "notas": "Envios diversificados: rodizio por categoria em vez de so por plataforma, com ordem sorteada a cada rodada; produtos de nome parecido nao saem mais em sequencia",
-  "sig": "de57af0e9e56dac1b2f12d5baa71e65bb1de586d2d137710083bc19327c70d356839fb3859f1648b2c87ec8675a1ca22a7a32b9944964d4f6a375c4e48886005"
+  "version": "1.6.8",
+  "notas": "Painel de afiliados do Mercado Livre agora roda 5x ao dia (9h, 12h, 15h, 18h, 21h) em vez de so no almoco; fora do almoco pega a vitrine inteira, nao so GANHOS EXTRAS; varredura completa da vitrine em vez de um scroll; ate 12 ofertas por rodada em vez de 8; ofertas de afiliados passam a ser classificadas por assunto (cozinha, ferramentas, moda...) para entrarem no rodizio de variedade",
+  "sig": "65f23cb94031645517808edfc9e3283addb435718aef50c703a96f637eb420fdc5dd8f3bf6cf179a71e8ee2918124dbd4fd889c99e97351f9b8b8141cc11ef01"
 }
