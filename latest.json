@@ -1,5 +1,5 @@
 {
-  "version": "1.6.10",
-  "notas": "CORRECAO IMPORTANTE de precos do Mercado Livre: o robo publicava o valor do PIX como se fosse o preco do produto, e quem pagasse de outra forma encontrava mais caro na loja. Agora o preco publicado vale para qualquer forma de pagamento e o do Pix aparece como bonus na mensagem;Precos acima de mil reais agora saem com o ponto do milhar (R$ 2.129,00 em vez de R$ 2129,00);O percentual de Ganhos Extras deixou de aparecer no campo de desconto do painel: aquele numero e a sua comissao de afiliado, nao o desconto de quem compra;Painel remodelado: cores mais sobrias e telas mais limpas, com os ajustes de uso ocasional recolhidos em secoes que abrem no clique",
-  "sig": "87750a8c6081181b6d53c1335ab0ec0716582c6b4098b9811ac6af92cb2dc2eb449d6f01239fc0bcdada3ca6e873777df554b10c8bfbf692250e9531bfe4ae05"
+  "version": "1.6.11",
+  "notas": "Corrige perda de ofertas no historico: o ciclo normal e o ciclo do painel de afiliados gravavam o mesmo arquivo ao mesmo tempo e um apagava o trabalho do outro. As ofertas do Mercado Livre eram publicadas no grupo mas sumiam do historico, e a protecao contra repeticao ficava cega para elas;Agora as duas rotinas gravam mesclando com o que ja esta no disco, em vez de sobrescrever",
+  "sig": "01265c76773dd40992a17a534dcb8a4b08a420ec9ec199b495288b42de374421a631c764ae66e2e109acfc83b6dcb3f4e076abd438b1e69e0f7d31ab85b2340f"
 }
