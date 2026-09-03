@@ -1,5 +1,5 @@
 {
-  "version": "1.6.11",
-  "notas": "Corrige perda de ofertas no historico: o ciclo normal e o ciclo do painel de afiliados gravavam o mesmo arquivo ao mesmo tempo e um apagava o trabalho do outro. As ofertas do Mercado Livre eram publicadas no grupo mas sumiam do historico, e a protecao contra repeticao ficava cega para elas;Agora as duas rotinas gravam mesclando com o que ja esta no disco, em vez de sobrescrever",
-  "sig": "01265c76773dd40992a17a534dcb8a4b08a420ec9ec199b495288b42de374421a631c764ae66e2e109acfc83b6dcb3f4e076abd438b1e69e0f7d31ab85b2340f"
+  "version": "1.6.12",
+  "notas": "Painel mais limpo: os ajustes de uso ocasional agora ficam recolhidos em secoes que abrem no clique. A aba do WhatsApp caiu de 2000 para 900 pixels e a de Configuracoes cabe inteira na tela;Sobrou um unico visual, mais sobrio: os layouts Cyber, Aurora, HUD e Neo foram removidos. Quem usava um deles volta ao padrao automaticamente;Emojis sairam dos titulos das telas, que agora usam so texto",
+  "sig": "b75f802dd32135053dcbbf9996a1100fa17596fe92321fc1c73517c6ce8932b50529c98aec9725650b2ecc2967e046606c781aac68116b3826240d513857ed0f"
 }
