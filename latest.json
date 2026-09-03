@@ -1,5 +1,5 @@
 {
   "version": "1.6.9",
   "notas": "Novo botao Conectar minha conta do Mercado Livre na aba Afiliados: o login e feito no site do proprio ML e a sessao fica salva; a senha nunca passa pelo PromoBot; corrige a janela do navegador que passou a abrir 5x ao dia para quem nao tinha login salvo, agora ela so abre quando o cliente clica em conectar",
-  "sig": "b6079c779fe4beb82e1cb357fc1fc939302af32162af8ec9093db3835261f7a4bfe3cface0ef2f4d6e5a9255d8851ac033c72eaddfbff234763efc04e31ee403"
+  "sig": "b64d484fd7620e613cf17265edc47234c6a874573be7253006484263c6fdf65e2ac8f022b916d6e1efa38404129e21668644a87ab6a62c1dbf9ab30382ea7100"
 }
