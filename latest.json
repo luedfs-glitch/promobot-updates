@@ -1,5 +1,5 @@
 {
-  "version": "1.6.12",
-  "notas": "Painel mais limpo: os ajustes de uso ocasional agora ficam recolhidos em secoes que abrem no clique. A aba do WhatsApp caiu de 2000 para 900 pixels e a de Configuracoes cabe inteira na tela;Sobrou um unico visual, mais sobrio: os layouts Cyber, Aurora, HUD e Neo foram removidos. Quem usava um deles volta ao padrao automaticamente;Emojis sairam dos titulos das telas, que agora usam so texto",
-  "sig": "b75f802dd32135053dcbbf9996a1100fa17596fe92321fc1c73517c6ce8932b50529c98aec9725650b2ecc2967e046606c781aac68116b3826240d513857ed0f"
+  "version": "1.6.13",
+  "notas": "Mais ofertas do Mercado Livre: o robo cortava a vitrine nas 12 primeiras e so depois descartava as repetidas. Como o topo da vitrine muda pouco, dava 21 ofertas encontradas e ZERO publicadas, com ofertas novas logo abaixo. Agora ele separa as ineditas primeiro e so entao limita a quantidade;O robo passa a impedir que o Windows suspenda a maquina enquanto estiver ligado. A manutencao automatica do Windows mandava o PC dormir de madrugada e o bot ficava horas parado: numa noite foram 10 horas, e a rodada de ofertas das 9h nao aconteceu. Nao altera as configuracoes de energia do computador e pode ser desligado no config",
+  "sig": "f573ad3bf4691e543773ec403de47b58940ebbb6e74be8872f21d15a7029f69803a81855768a5a528a957d3ef264e73ffb7ac59659db24d6c3d1788a83e6ee06"
 }
