@@ -1,5 +1,5 @@
 {
-  "version": "1.6.13",
-  "notas": "Mais ofertas do Mercado Livre: o robo cortava a vitrine nas 12 primeiras e so depois descartava as repetidas. Como o topo da vitrine muda pouco, dava 21 ofertas encontradas e ZERO publicadas, com ofertas novas logo abaixo. Agora ele separa as ineditas primeiro e so entao limita a quantidade;O robo passa a impedir que o Windows suspenda a maquina enquanto estiver ligado. A manutencao automatica do Windows mandava o PC dormir de madrugada e o bot ficava horas parado: numa noite foram 10 horas, e a rodada de ofertas das 9h nao aconteceu. Nao altera as configuracoes de energia do computador e pode ser desligado no config",
-  "sig": "f573ad3bf4691e543773ec403de47b58940ebbb6e74be8872f21d15a7029f69803a81855768a5a528a957d3ef264e73ffb7ac59659db24d6c3d1788a83e6ee06"
+  "version": "1.6.14",
+  "notas": "CORRECAO URGENTE: a versao 1.6.13 quebrou a inicializacao do robo. O componente que impede o Windows de suspender chamava uma funcao inexistente e derrubava o supervisor ao subir, deixando o bot parado. Se o seu robo parou depois de atualizar, esta versao resolve;A protecao contra a suspensao do Windows continua funcionando, agora testada em execucao real",
+  "sig": "416c87f313302fe4edb69e2ec77219997f340a597ba9c164ab3301fa31c1645f9fe4925db81eb53e95251c3671783a3de973a481f1f6fdd5bffc7bca28c67d0b"
 }
