@@ -1,5 +1,5 @@
 {
-  "version": "1.6.14",
-  "notas": "CORRECAO URGENTE: a versao 1.6.13 quebrou a inicializacao do robo. O componente que impede o Windows de suspender chamava uma funcao inexistente e derrubava o supervisor ao subir, deixando o bot parado. Se o seu robo parou depois de atualizar, esta versao resolve;A protecao contra a suspensao do Windows continua funcionando, agora testada em execucao real",
-  "sig": "416c87f313302fe4edb69e2ec77219997f340a597ba9c164ab3301fa31c1645f9fe4925db81eb53e95251c3671783a3de973a481f1f6fdd5bffc7bca28c67d0b"
+  "version": "1.6.15",
+  "notas": "Corrige a virada do dia: o robo usava horario UTC para contar o limite diario, entao no Brasil o contador zerava as 21h em vez da meia-noite. Na pratica o bot podia passar do teto de mensagens numa mesma noite, o que aumenta o risco de bloqueio do WhatsApp. Vale tambem para o limite do buscador privado, o uso da IA e os numeros do relatorio",
+  "sig": "155a2e14871c7ab0ce428c87d2ebdcc9d560dbf06db8eb0d4392bc9970c0c19560c131c92d0e12d74e766da7cd3e22ebdce415a217fd29e4fddf61d4ba112908"
 }
